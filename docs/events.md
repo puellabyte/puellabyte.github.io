@@ -410,38 +410,6 @@ https://www.m3net.jp/attendance/circle2025s.php
 | **BOOTH Festival ドールズフロントライン回1** | 2020.02.08-09 |
 | **BOOTH Festival ボカコレ回1** | 2020.12.11-13 |
 
-**Doujin Events**  
-This spreadsheet covers all\* doujin events where doujin music was or is sold. For consistency, any past events where music was not sold will still be listed so long as music eventually started to be sold at the event in question.
-
-Any N/A or Unknown listings are due to lack of information, the same can be said for any upcoming event that is not yet listed. Please contact me to let me know if you notice a mistake or have information to contribute. 
-
-Some events are not covered here, it is not because they don’t matter \- it’s because there isn’t sufficient information on them.
-
-If you want to contribute info or notice an error you can contact me on discord: shvrky , or via wherever this was shared assuming I shared it.
-
-# **Main Events**
-
-**Comiket (コミケット)**  
-Official site: [https://comiket.co.jp/](https://comiket.co.jp/)  
-Largest bi-annual doujin convention run by not-for-profit organizations & volunteers. Currently a 3 day event with specific media types being sold on different days, “Day 3” is the main day for Doujin Music. 
-
-**Music Media-Mix Market (M3)**  
-Official site: [http://www.m3net.jp/](http://www.m3net.jp/)  
-Event focusing on CD/DVD media (Music, Drama CDs, Movies, Games). This is the main event for original Doujin Music releases, though it also contains other forms of doujin music.
-
-**Reitaisai (例大祭) & Autumn Reitaisai (秋季例大祭)**  
-Official site: [https://reitaisai.com/](https://reitaisai.com/)  
-Hakurei Shrine Reitaisai (博麗神社例大祭) started out as a place for ZUN to distribute his games but has since transformed into the main place for doujin artists to release their Touhou work. Features all types of media. Due to increasing popularity in Reitaisai they released “例大祭SP” with plans to hold an additional event every autumn. In 2011 this was canceled however, in 2014 it was brought back rebranded as “秋季例大祭”. Essentially just another Reitaisai for artists to sell Touhou works at.
-
-**Touhou Kouroumu (東方紅楼夢)**  
-Official site: [https://koromu-toho.com/](https://koromu-toho.com/)  
-Smaller convention for artists to release their Touhou works at. Features all types of media
-
-**THE VOC@LOID M@STER (ボーマス)**  
-Official site: [http://ketto.com/tvm/](http://ketto.com/tvm/)  
-Largest vocaloid centered event. Contains both Commercial & Doujin participants selling all forms of media. Has sparked multiple spin-off events due to popularity as well.
-
-
 ### **Sunshine Creation / サンクリ / SC / サンシャインクリエイション** 
 
 | Event       | Date       |
@@ -4616,6 +4584,29 @@ site: http://www.teleway.ne.jp/~Mineko/only.html | http://www2.neweb.ne.jp/wc/Mi
 **remnants of the original document, im going to rework the info below**
 
 // 
+
+
+// # **Main Events**
+
+**Comiket (コミケット)**  
+Official site: [https://comiket.co.jp/](https://comiket.co.jp/)  
+Largest bi-annual doujin convention run by not-for-profit organizations & volunteers. Currently a 3 day event with specific media types being sold on different days, “Day 3” is the main day for Doujin Music. 
+
+**Music Media-Mix Market (M3)**  
+Official site: [http://www.m3net.jp/](http://www.m3net.jp/)  
+Event focusing on CD/DVD media (Music, Drama CDs, Movies, Games). This is the main event for original Doujin Music releases, though it also contains other forms of doujin music.
+
+**Reitaisai (例大祭) & Autumn Reitaisai (秋季例大祭)**  
+Official site: [https://reitaisai.com/](https://reitaisai.com/)  
+Hakurei Shrine Reitaisai (博麗神社例大祭) started out as a place for ZUN to distribute his games but has since transformed into the main place for doujin artists to release their Touhou work. Features all types of media. Due to increasing popularity in Reitaisai they released “例大祭SP” with plans to hold an additional event every autumn. In 2011 this was canceled however, in 2014 it was brought back rebranded as “秋季例大祭”. Essentially just another Reitaisai for artists to sell Touhou works at.
+
+**Touhou Kouroumu (東方紅楼夢)**  
+Official site: [https://koromu-toho.com/](https://koromu-toho.com/)  
+Smaller convention for artists to release their Touhou works at. Features all types of media
+
+**THE VOC@LOID M@STER (ボーマス)**  
+Official site: [http://ketto.com/tvm/](http://ketto.com/tvm/)  
+Largest vocaloid centered event. Contains both Commercial & Doujin participants selling all forms of media. Has sparked multiple spin-off events due to popularity as well.
 
 // # **Main Events (Digital)**
 
