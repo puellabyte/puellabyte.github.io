@@ -1,5 +1,5 @@
 **Doujin Events**  
-This spreadsheet covers all\* doujin events where doujin music was or is sold. For consistency, any past events where music was not sold will still be listed so long as music eventually started to be sold at the event in question.
+This spreadsheet covers all\* doujin events where doujin music was or is sold. For consistency, any past events where music was not sold will still be listed so long as music eventually started to be sold at the event in question. -
 
 Any N/A or Unknown listings are due to lack of information, the same can be said for any upcoming event that is not yet listed. Please contact me to let me know if you notice a mistake or have information to contribute. 
 
