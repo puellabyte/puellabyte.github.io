@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -6,23 +6,33 @@ export default defineConfig({
   description: "A VitePress site for documentation",
   cleanUrls: true,
   themeConfig: {
+    search: {
+      provider: "local",
+    },
+
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Events', link: '/events' }
+      { text: "Home", link: "/" },
+      { text: "Events", link: "/events" },
     ],
 
     sidebar: [
       {
-        text: 'Hello im a sidebar',
-        items: [
-          { text: 'Events Title', link: '/events' }
-        ]
-      }
+        text: "Events",
+        items: [{ text: "Doujin Events", link: "/events" }],
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/puellabyte/puellabyte.github.io/' }
-    ]
-  }
-})
+      {
+        icon: "github",
+        link: "https://github.com/puellabyte/puellabyte.github.io/",
+      },
+    ],
+  },
+  markdown: {
+    image: {
+      lazyLoading: true,
+    },
+  },
+});

@@ -203,23 +203,24 @@ Site: https://www.comiket.co.jp/
 | **M3-54**  (M3-2024秋)| 2024.10.27 |
 | **M3-55**  (M3-2025春)| 2025.04.27 |
  
- Site: https://www.m3net.jp/ | http://mmm.panic.or.jp/
+Site: https://www.m3net.jp/ | http://mmm.panic.or.jp/
 
- Circles/Booths: https://www.m3net.jp/event/index.php
- \* these because they didn't add it to the index yet
-https://www.m3net.jp/attendance/circle2022sR.php
-https://www.m3net.jp/attendance/circle2022sW.php
-https://www.m3net.jp/attendance/circle2022aR.php
-https://www.m3net.jp/attendance/circle2022aW.php
-https://www.m3net.jp/attendance/circle2023sR.php
-https://www.m3net.jp/attendance/circle2023sW.php
-https://www.m3net.jp/attendance/circle2023aR.php
-https://www.m3net.jp/attendance/circle2023aW.php
-https://www.m3net.jp/attendance/circle2024sR.php
-https://www.m3net.jp/attendance/circle2024sW.php
-https://www.m3net.jp/attendance/circle2024fR.php
-https://www.m3net.jp/attendance/circle2024fW.php
-https://www.m3net.jp/attendance/circle2025s.php
+Circles/Booths: https://www.m3net.jp/event/index.php  
+::: warning these because they didn't add it to the index yet
+https://www.m3net.jp/attendance/circle2022sR.php  
+https://www.m3net.jp/attendance/circle2022sW.php  
+https://www.m3net.jp/attendance/circle2022aR.php  
+https://www.m3net.jp/attendance/circle2022aW.php  
+https://www.m3net.jp/attendance/circle2023sR.php  
+https://www.m3net.jp/attendance/circle2023sW.php  
+https://www.m3net.jp/attendance/circle2023aR.php  
+https://www.m3net.jp/attendance/circle2023aW.php  
+https://www.m3net.jp/attendance/circle2024sR.php  
+https://www.m3net.jp/attendance/circle2024sW.php  
+https://www.m3net.jp/attendance/circle2024fR.php  
+https://www.m3net.jp/attendance/circle2024fW.php  
+https://www.m3net.jp/attendance/circle2025s.php  
+:::
 
 ## **例大祭 / Reitaisai / RTS**
 
@@ -572,7 +573,7 @@ Site: https://www.creation.gr.jp/
 | **COMIC1☆25** | 2024.10.13 |
 | **COMIC1☆26** | 2025.04.27 |
 
-site: https://www.comic1.jp/
+Site: https://www.comic1.jp/
 
 ### **ComicTreasure / こみっく★トレジャー / こみっくトレジャー**
 
@@ -642,7 +643,7 @@ https://www.aoboo.jp/
 |---------------------------|--------------|
 | **博多東方祭**             | 2009.05.03 |
 
-site: https://web.archive.org/web/20090226194243/http://www8.atpages.jp/hakatatohosai/
+Site: https://web.archive.org/web/20090226194243/http://www8.atpages.jp/hakatatohosai/
 
 ### **東方弾幕祭**
 
@@ -650,7 +651,7 @@ site: https://web.archive.org/web/20090226194243/http://www8.atpages.jp/hakatato
 |---------------------------|--------------|
 | **東方段幕祭**            |  2009.10.12   | 
 
-site: https://www.treasure-festa.com/dms/
+Site: https://www.treasure-festa.com/dms/
 
 ### **紅月ノ宴参**
 
@@ -671,7 +672,7 @@ site: https://www.treasure-festa.com/dms/
 | **東方不敗小町6**         | 2010.03.22   |
 | **東方不敗小町7**         | 2012.04.29   |
 
-site: http://www.egmc.co.jp/komati.html
+Site: http://www.egmc.co.jp/komati.html
 
 ### **東方不敗小町ぷちこまち / Touhou Fuhai Komachi Puchikomachi**
 | Event                     | Date         |
@@ -680,7 +681,7 @@ site: http://www.egmc.co.jp/komati.html
 | **東方不敗小町ぷちこまち2**| 2012.03.25   |
 | **東方不敗小町ぷちこまち3**| 2013.03.24   |
 
-site: http://www.egmc.co.jp/komati.html
+Site: http://www.egmc.co.jp/komati.html
 
 ### **東方絢櫻祭 / 东方绚樱祭 / Touhousai**
 
@@ -691,7 +692,7 @@ site: http://www.egmc.co.jp/komati.html
 | **東方絢櫻祭3 -櫻華永燦-** | 2008.05.31   |
 | **東方絢櫻祭4 -華櫻散天-** | 2009.05.02   |
 
-site: http://touhou30.web.fc2.com/
+Site: http://touhou30.web.fc2.com/
 
 ### **東方まんがまつり / Touhou Manga Matsuri**
 
@@ -700,7 +701,7 @@ site: http://touhou30.web.fc2.com/
 | **東方まんがまつり** | 2006.02.12 |
 | **幻想郷大物産展 ～東方まんがまつり⑨～** | 2008.01.27 |
 
-site: http://ruro.jp/toho | http://u-mill.info/758/
+Site: http://ruro.jp/toho | http://u-mill.info/758/
 
 ### **東方四国祭 / Touhou Shikokusai**
 
@@ -745,7 +746,7 @@ site: http://ruro.jp/toho | http://u-mill.info/758/
 | **新潟東方祭20**          | 2019.05.03   |
 | **新潟東方祭21**          | 2020.05.17 -> 2020.07.24 |
 
-site: http://nigata.tohosai.com/
+Site: http://nigata.tohosai.com/
 
 ### **秋叶原超同人祭**
 
@@ -792,7 +793,7 @@ site: http://nigata.tohosai.com/
 | **東方崇敬祭4**           | 2010.05.16   |
 | **東方崇敬祭5**           | 2020.06.06   |
 
-site: http://ketto.com/toho/index.shtml
+Site: http://ketto.com/toho/index.shtml
 
 ### **游音幻想展** 
 
@@ -817,6 +818,8 @@ site: http://ketto.com/toho/index.shtml
 
 **幻想神楽 / Gensou Kagura**
 
+![alt](/images/幻想神乐LOGO.jpg){.white-bg}
+
 | Event       | Date       |
 |-------------|------------|
 | **幻想神楽1** | 2017.01.22 |
@@ -826,9 +829,8 @@ site: http://ketto.com/toho/index.shtml
 | COMIC1 BS祭 スペシャル (**幻想神楽5**) | 2021.05.04 -> 2021.05.23|
 | **幻想神楽6** | 2022.01.23 |
 | **幻想神楽7** | 2024.01.21 |
-site: http://gensou-kagura.com/
-site: http://gensou-kagura.net/
-image: https://upload.thbwiki.cc/7/78/%E5%B9%BB%E6%83%B3%E7%A5%9E%E4%B9%90LOGO.jpg
+
+Site: http://gensou-kagura.com/ | http://gensou-kagura.net/
 
 **東方名華祭 / Meikasai**
 
@@ -854,7 +856,7 @@ image: https://upload.thbwiki.cc/7/78/%E5%B9%BB%E6%83%B3%E7%A5%9E%E4%B9%90LOGO.j
 | **東方名華祭18** | 2024.03.31 |
 | **東方名華祭19** | 2025.06.15 |
 
-site: http://meikasai.com/
+Site: http://meikasai.com/
 
 ### **東方神居祭 / Touhou Kamuisai**
 
@@ -874,7 +876,7 @@ site: http://meikasai.com/
 | **東方神居祭SP4**        | 2019.04.14   |
 | **東方神居祭9**          | 2024.11.09   |
 
-site: http://kangun.net/kamui/
+Site: http://kangun.net/kamui/
 
 ### **月の宴 / Tsuki no Utage**
 
@@ -898,17 +900,19 @@ site: http://kangun.net/kamui/
 | **月の宴16**              | 2024.02.10   |
 | **月の宴17**              | 2025.02.08   |
 
-site: http://project-d.biz/eiyasho/
+Site: http://project-d.biz/eiyasho/
 
 ### **るなフェス / Luna Fes / Lunatic Festival**
-| Event                     | Date         |
-|---------------------------|--------------|
+
+![alt](/images/63.gif){.white-bg}
+
+| Event          | Date         |
+|----------------|--------------|
 | **るなフェス1** | 2006.10.15 |
 | **るなフェス2** | 2008.03.02 |
 | **るなフェス3** | 2009.03.01 |
 
-site: http://lnafes.dojin.com/
-image: https://static.touhoudb.com/img/releaseeventseries/mainSmall/63.gif?v=5
+Site: http://lnafes.dojin.com/
 
 ### **東方螺茶会**
 
@@ -1149,7 +1153,7 @@ image: https://static.touhoudb.com/img/releaseeventseries/mainSmall/63.gif?v=5
 |---------------------------|------------|
 | **東方螺茶会 肥後の宴**        | 2025.04.27 |
 
-site: http://www.youyou.co.jp/only/touhou/index.html
+Site: http://www.youyou.co.jp/only/touhou/index.html
 
 ### **東方ルナティックリリース**
 
@@ -1160,6 +1164,9 @@ site: http://www.youyou.co.jp/only/touhou/index.html
 ## **Vocaloid**
 
 ### **マジカルミライ クリエイターズマーケット / Magical Mirai Creators Market**
+
+![alt](/images/104.png){.white-bg}
+
 | Event                                      | Date       |
 |--------------------------------------------|------------|
 | **マジカルミライ2016 CHIBA** | 2016.09.10 |
@@ -1180,9 +1187,10 @@ site: http://www.youyou.co.jp/only/touhou/index.html
 | **マジカルミライ2024 FUKUOKA** | 2024.08.17 |
 | **マジカルミライ2024 TOKYO** | 2024.08.30 |
 | **マジカルミライ2024 OSAKA** | 2024.10.12 |
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/104.png?v=2
 
 ### **ボーパラ / Vocaloid Paradise / VOPARA**
+
+![alt](/images/18.png){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1199,8 +1207,8 @@ image: https://static.vocadb.net/img/releaseeventseries/mainSmall/104.png?v=2
 | **ボーパラ11** | 2016.10.02 |
 | **ボーパラ12** | 2017.10.15 |
 | **ボーパラ13** | 2018.09.16 |
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/18.jpg?v=2
-site: http://ttc.ninja-web.net/vo-para/
+
+Site: http://ttc.ninja-web.net/vo-para/  
 
 ### **Vocaloid Paradise ExtraEdition  / ボーパラ番外編 / VOPARA番外編**
 
@@ -1214,9 +1222,12 @@ site: http://ttc.ninja-web.net/vo-para/
 | **ボーパラ番外編6** | 2017.06.18 |
 | **ボーパラ番外編7** | 2018.07.01 |
 | **ボーパラ番外編8** | 2019.05.19 |
-site: http://ttc.ninja-web.net/vp-ex/
+
+Site: http://ttc.ninja-web.net/vp-ex/
 
 ### **ボーパラ関西 / VOCALOID PARADISE 関西 / VOCALOID PARADISE Kansai**
+
+![alt](/images/16.jpg){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1227,10 +1238,12 @@ site: http://ttc.ninja-web.net/vp-ex/
 | **ボーパラ関西5** | 2016.03.06 |
 | **ボーパラ関西6** | 2017.03.05 |
 | **ボーパラ関西7** | 2018.02.25 |
-image: https://static.vocadb.net/img/releaseeventseries/mainOrig/16.jpg?v=4
-site: http://vo-para.birdzberth.com/
+
+Site: http://vo-para.birdzberth.com/
 
 ### **みんなのUTAU / Minna no UTAU**
+
+![alt](/images/13.png){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1239,10 +1252,12 @@ site: http://vo-para.birdzberth.com/
 | **みんなのUTAU2014 Spring** | 2014.04.26 |
 | **みんなのUTAU2014 Fall** | 2014.11.02 |
 | **みんなのUTAU2018** | 2018.04.08 |
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/13.jpg?v=4
-site: http://utau.blueskywings.net/
+
+Site: http://utau.blueskywings.net/
 
 ### **君とUTAU日々 / Kimi to UTAU Hibi**
+
+![alt](/images/115.png){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1252,8 +1267,8 @@ site: http://utau.blueskywings.net/
 | **君とUTAU日々4** | 2020.04.05 |
 | **君とUTAU日々5** | 2021.02.07 |
 | **君とUTAU日々6** | 2021.10.24 |
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/115.png?v=1
-site: http://kimiuta.info/
+
+Site: http://kimiuta.info/  
 
 ### **VOCALOID LOVERS**
 
@@ -1261,7 +1276,8 @@ site: http://kimiuta.info/
 |-------------|------------|
 | **VOCALOID LOVERS 2011** | 2011.05.22 |
 | **VOCALOID LOVERS 2012** | 2012.01.08 |
-site: https://web.archive.org/web/20131229230506/https://vocalovers.jimdo.com
+
+Site: https://web.archive.org/web/20131229230506/https://vocalovers.jimdo.com
 
 ### **Yukari PARADISE**
 
@@ -1271,7 +1287,9 @@ site: https://web.archive.org/web/20131229230506/https://vocalovers.jimdo.com
 | **Yukari PARADISE2** | 2017.10.15 |
 | **Yukari PARADISE3** | 2018.09.16 |
 
-### **ウタマス / THE UTAU M@STER / UTAU Master** 
+### **ウタマス / THE UTAU M@STER / UTAU Master**
+
+![alt](/images/5.png){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1282,10 +1300,12 @@ site: https://web.archive.org/web/20131229230506/https://vocalovers.jimdo.com
 | **ウタマス5** | 2012.02.05 |
 | **ウタマス6** | 2012.04.28 |
 | **ウタマス7** | 2012.12.15 |
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/5.jpg?v=5
-site: http://ketto.com/utau/
+
+Site: http://ketto.com/utau/
 
 ### **かがみねのお茶会 / Kagamine no Ochaikai**
+
+![alt](/images/91.jpg){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1293,10 +1313,13 @@ site: http://ketto.com/utau/
 | **かがみねのお茶会 二席目** |  2017.03.05 |
 | **かがみねのお茶会 三席目** | 2018.03.25 |
 | **かがみねのお茶会 四席目** | 2019.01.27 |
-site: http://kagamine-no-ochakai.jp/
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/91.jpg?v=3
+
+Site: http://kagamine-no-ochakai.jp/
 
 ### **コトノハーズフェスタ / Kotonoha Festa / Koto Fes**
+
+![alt](/images/167.png){.white-bg}
+
 | Event                     | Date       |
 |---------------------------|------------|
 | **コトノハーズフェスタ1** | 2017.09.09 |
@@ -1307,9 +1330,8 @@ image: https://static.vocadb.net/img/releaseeventseries/mainSmall/91.jpg?v=3
 | **コトノハーズフェスタ6** | 2023.01.22 |
 | **コトノハーズフェスタ7** | 2023.05.05 |
 | **コトノハーズフェスタ8** | 2024.11.10 |
-site: https://web.archive.org/web/*/http://kotonoha-festa.com/
-site: https://koto-fes.com/
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/167.png?v=3
+
+Site: https://web.archive.org/web/*/http://kotonoha-festa.com/ | https://koto-fes.com/
 
 ### **この声届け、月までも / Kono Koe Todoke, Tsuki made mo**
 
@@ -1321,12 +1343,14 @@ image: https://static.vocadb.net/img/releaseeventseries/mainSmall/167.png?v=3
 | **この声届け、月までも 肆** | 2018.05.05 |
 | **この声届け、月までも 五** | 2019.05.03 |
 | **この声届け、月までも 6** | 2020.02.11 |
-site: http://yukari.blueskywings.net/
+
+Site: http://yukari.blueskywings.net/
 
 ### **この声届け、月までも in オホーツク**
 | Event       | Date       |
 |-------------|------------|
 | **この声届け、月までも in オホーツク** | 2020.07.25 |
+
 http://koetsuki.com/okhotsk/
 
 ### **CeVIO FeSTA**
@@ -1343,9 +1367,12 @@ http://koetsuki.com/okhotsk/
 | **CeVIO FeSTA 8**  | 2023.03.12 |
 | **CeVIO FeSTA 9**  | 2024.03.03 |
 | **CeVIO FeSTA 10** | 2025.03.23 |
-site: http://www.cevio-festa.com/
+
+Site: http://www.cevio-festa.com/
 
 ### **Each Of Voice**
+
+![alt](/images/120.png){.white-bg}
 
 | Event              | Date       |
 |--------------------|------------|
@@ -1356,8 +1383,8 @@ site: http://www.cevio-festa.com/
 | **Each of Voice 5**| 2021.10.16 |
 | **Each of Voice 6**| 2022.09.04 |
 | **Each of Voice 7**| 2023.10.22 |
-site: https://web.archive.org/web/*/http://eachofvoice.com/
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/120.png?v=4
+
+Site: https://web.archive.org/web/*/http://eachofvoice.com/  
 
 ### **Hope Macaron**
 
@@ -1382,17 +1409,19 @@ image: https://static.vocadb.net/img/releaseeventseries/mainSmall/120.png?v=4
 | **IA Revolution Ⅸ** | 2022.09.04 |
 | **IA Revolution Ⅹ** | 2023.10.22 |
 
-site: http://ia.fingertipmilktea.info/index.html
-site: http://ia-revo.com/
+Site: http://ia.fingertipmilktea.info/index.html | http://ia-revo.com/
 
 ### **Virtual to Vocaloid**
 
 | Event       | Date       |
 |-------------|------------|
 | **Virtual to Vocaloid vol.1** | 2020.05.22 |
-site: http://onprism-rec.com/v2v/
+
+Site: http://onprism-rec.com/v2v/
 
 ### **Vocaloid Fantasia**
+
+![alt](/images/21.png){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1402,10 +1431,8 @@ site: http://onprism-rec.com/v2v/
 | **Vocaloid Fantasia 4** | 2013.09.15 |
 | **Vocaloid Fantasia 5** | 2014.09.23 |
 | **Vocaloid Fantasia Final** | 2015.02.21 |
-site: http://vocaloid-fantasia.com/
-image: https://static.vocadb.net/img/releaseeventseries/mainOrig/21.gif?v=2
 
-### 
+Site: http://vocaloid-fantasia.com/
 
 ### **VOCALOID GENERATION**
 
@@ -1419,20 +1446,22 @@ image: https://static.vocadb.net/img/releaseeventseries/mainOrig/21.gif?v=2
 | **VOCALOID GENERATION 6** |  2017.05.07 |
 | **VOCALOID GENERATION 7** | 2018.05.06 |
 
-site: http://www.voca-gene.info/
+Site: http://www.voca-gene.info/
 
 ### **ピアプロマルシェ / Piapro Market** 
+
+![alt](/images/150.png){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
 | **ピアプロマルシェ 2018 Osaka** |  2018.08.25 |
 | **ピアプロマルシェ 2018 Tokyo** | 2018.08.31 |
 
-https://magicalmirai.com/2018/tokyo_market_piapro.html
-https://magicalmirai.com/2018/osaka_market_piapro.html
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/150.png?v=2
+Site: https://magicalmirai.com/2018/tokyo_market_piapro.html | https://magicalmirai.com/2018/osaka_market_piapro.html
 
 ### **ずんだぱ～てぃ / Touhoku Zunko / Zunda Party** 
+
+![alt](/images/114.png){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1447,10 +1476,11 @@ image: https://static.vocadb.net/img/releaseeventseries/mainSmall/150.png?v=2
 | **ずんだぱ～てぃ9** | 2023.03.25 |
 | **ずんだぱ～てぃ10** | 2024.09.22 |
 
-http://zunko.moe/
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/114.jpg?v=3
+Site: http://zunko.moe/
 
 ### **鏡音PARADISE / Kagamine PARADISE** 
+
+![alt](/images/kaga-para.jpg){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1463,9 +1493,9 @@ image: https://static.vocadb.net/img/releaseeventseries/mainSmall/114.jpg?v=3
 | **鏡音PARADISE7** | 2018.07.01 |
 | **鏡音PARADISE8** | 2019.05.19 |
 
-image: http://ttc.ninja-web.net/vo-para/kaga-para/banner.jpg
+### **カイパラ / KAITO PARADISE**
 
-### **カイパラ / KAITO PARADISE** 
+![alt](/images/kai-para.jpg){.white-bg}
 
 | Event       | Date       |
 |-------------|------------|
@@ -1477,9 +1507,10 @@ image: http://ttc.ninja-web.net/vo-para/kaga-para/banner.jpg
 | **カイパラ6** | 2018.07.01 |
 | **カイパラ7** | 2019.05.19 |
 
-image: http://ttc.ninja-web.net/vo-para/kai-para/banner.jpg
-
 ### **メイパラ / MEIKO PARADISE**
+
+![alt](/images/mei-para.jpg){.white-bg}
+
 | Event       | Date       |
 |-------------|------------|
 | **メイパラ1** | 2014.06.29 |
@@ -1489,9 +1520,10 @@ image: http://ttc.ninja-web.net/vo-para/kai-para/banner.jpg
 | **メイパラ5** | 2018.07.01 |
 | **メイパラ6** | 2019.05.19 |
 
-image: http://ttc.ninja-web.net/vo-para/mei-para/banner.jpg
-
 ### **UTAパラ / UTAU PARADISE**
+
+![alt](/images/uta-para.jpg){.white-bg}
+
 | Event       | Date       |
 |-------------|------------|
 | **UTAパラ** | 2014.06.29 |
@@ -1501,10 +1533,11 @@ image: http://ttc.ninja-web.net/vo-para/mei-para/banner.jpg
 | **UTAパラ5** | 2018.07.01 |
 | **UTAパラ6** | 2019.05.19 |
 
-image: https://ttc.ninja-web.net/uta-para/banner.jpg
-https://ttc.ninja-web.net/uta-para/
+Site: https://ttc.ninja-web.net/uta-para/
 
-### ** / GUMI PARADISE**
+### **/ GUMI PARADISE**
+| Event       | Date       |
+|-------------|------------|
 | **GUMI PARADISE** | Unknown | 
 | **GUMI PARADISE 2** | 2019.05.19 |
 
@@ -1514,11 +1547,14 @@ https://ttc.ninja-web.net/uta-para/
 | **カイメイPARADISE** | 2019.05.19 | 
 
 ### **がくぽPARADISE / GAKUPO PARADISE**
+
+![alt](/images/gaku-para.jpg){.white-bg}
+
+| Event       | Date       |
+|-------------|------------|
 | **がくぽPARADISE** | 2015.06.14 |
 | **がくぽPARADISE2** | 2016.06.12 |
 | **がくぽPARADISE3** | 2018.07.01 | 
-
-image: https://ttc.ninja-web.net/vp-ex/gaku-para/banner.jpg
 
 ### **音けっと / Otoketto**
 
@@ -1574,7 +1610,7 @@ https://all-kagamine.jp/kagamino/
 | **ボカスト09**          | 2024.09.23       |
 | **ボカスト10**          | 2025.01.12       |
 
-site: https://voca-st.com/
+Site: https://voca-st.com/
 
 ## COMITIA
 
@@ -1735,7 +1771,7 @@ site: https://voca-st.com/
 | **COMITIA151** | 2025.02.16 |
 | **COMITIA152** | 2025.06.01 |
 
-http://www.comitia.co.jp/
+Site: http://www.comitia.co.jp/
 
 ### **九州コミティア / Kyushu Comitia / 九州コCOMITIA**
 | Event       | Date       |
@@ -1751,7 +1787,7 @@ http://www.comitia.co.jp/
 | **九州コミティア8** | 2024.03.10 |
 | **九州コミティア9** | 2025.03.02 |
 
-https://www.q-comitia.com/
+Site: https://www.q-comitia.com/
 
 ### **みちのくコミティア / Michinoku Comitia / みちのくCOMITIA**
 | Event       | Date       |
@@ -1841,8 +1877,7 @@ https://www.q-comitia.com/
 | **名古屋コミティア65** | 2024.09.29 |
 | **名古屋コミティア66** | 2025.02.02 |
 
-http://nagoya-comitia.daa.jp/
-https://n-comitia.com/
+Site: http://nagoya-comitia.daa.jp/ | https://n-comitia.com/
 
 ### **新潟コミティア / Niigata Comitia / 新潟COMITIA**
 | Event       | Date       |
@@ -1908,7 +1943,7 @@ https://n-comitia.com/
 | **新潟コミティア59** | 2024.12.01 |
 | **新潟コミティア60** | 2025.06.08 |
 
-https://gataket.com/comitia/
+Site: https://gataket.com/comitia/
 
 ### **北海道コミティア / Hokkaido Comitia / 北海道COMITIA**
 | Event       | Date       |
@@ -1935,7 +1970,7 @@ https://gataket.com/comitia/
 | **北海道コミティア20** | 2024.10.27 |
 | **北海道コミティア21** | 2025.06.15 |
 
-https://elysian.dojin.com/h-comitia/
+Site: https://elysian.dojin.com/h-comitia/
 
 ### **関西コミティア / Kansai Comitia / 関西COMITIA**
 | Event       | Date       |
@@ -2013,7 +2048,7 @@ https://elysian.dojin.com/h-comitia/
 | **関西コミティア71** | 2024.10.20 |
 | **関西コミティア72** | 2025.01.19 |
 
-https://www.k-comitia.com/
+Site: https://www.k-comitia.com/
 
 ## **Aikatsu**
 
@@ -2068,7 +2103,7 @@ https://www.k-comitia.com/
 | **スターライトオーディション7** | 2015.01.25 |
 | **スターライトオーディション8** | 2015.05.06
 
-https://web.archive.org/web/20241107044944/https://maekawasdf.wixsite.com/starlight-audition + https://starlight-audition.tumblr.com/
+Site: https://web.archive.org/web/20241107044944/https://maekawasdf.wixsite.com/starlight-audition | https://starlight-audition.tumblr.com/
 
 ### **アイカツ！カーニバル！ / アイカツ!カーニバル! / Aikatsu! Carnival!**
 | Event       | Date       |
@@ -2084,12 +2119,13 @@ https://web.archive.org/web/20241107044944/https://maekawasdf.wixsite.com/starli
 | **アイカツ！カーニバル！9** | 2020.11.15 |
 | **アイカツ！カーニバル！10** | 2021.11.11 |
 
-https://pr-dx.net/aikatsu/
+Site: https://pr-dx.net/aikatsu/
 
-Sources:
-https://en.wikipedia.org/wiki/Comiket
-https://ehwiki.org/wiki/Conventions
+::: details Sources
+https://en.wikipedia.org/wiki/Comiket  
+https://ehwiki.org/wiki/Conventions  
 https://shimeken.com/events
+:::
 
 
 ## example jump
@@ -2137,7 +2173,7 @@ https://shimeken.com/events
 | **科学世紀のカフェテラス12**      | 2023.09.03  |
 | **科学世紀のカフェテラス13**      | 2024.09.23  |
 
-site: http://cafe-terrace.info/
+Site: http://cafe-terrace.info/
 
 ### **東方合同イベント / Touhou Goudou Event**
 
@@ -2205,7 +2241,7 @@ site: http://cafe-terrace.info/
 | **ぷにケット50**       | 2024.12.01   |
 | **ぷにケット51**       | 2025.06.08   |
 
-site: https://www.puniket.com/
+Site: https://www.puniket.com/
 
 ### **プリンセス☆フェスタ**
 
@@ -2220,7 +2256,7 @@ site: https://www.puniket.com/
 | **プリンセス☆フェスタ7** | 2009.03.15   |
 | **プリンセス☆フェスタ8** | 2010.04.04   |
 
-site: https://www.puniket.com/futago/
+Site: https://www.puniket.com/futago/
 
 ### **みょうれんパーティー**
 
@@ -2235,7 +2271,7 @@ site: https://www.puniket.com/futago/
 | **みょうれんパーティー7**      | 2021.01.24  |
 | **みょうれんパーティー8**      | 2022.01.30  |
 
-site: http://www.puniket.com/myouren/
+Site: http://www.puniket.com/myouren/
 
 ### **もりや神社例大祭**
 
@@ -2252,7 +2288,7 @@ site: http://www.puniket.com/myouren/
 | **もりや神社例大祭9**  | 2020.02.02  |
 | **もりや神社例大祭10** | 2021.01.24 |
 
-site: http://www.puniket.com/moriya/
+Site: http://www.puniket.com/moriya/
 
 ### **ゆゆみょん！**
 
@@ -2272,9 +2308,11 @@ site: http://www.puniket.com/moriya/
 | **ゆゆみょん！12**              | 2024.01.28  |
 | **ゆゆみょん！13**              | 2025.02.02  |
 
-site: http://www.puniket.com/yuyumyon/
+Site: http://www.puniket.com/yuyumyon/
 
 ### **ようせいげんき！**
+
+![alt](/images/cirno_ba01.jpg){.white-bg}
 
 | **Event**                     | **Date**    |
 |-------------------------------|-------------|
@@ -2297,8 +2335,7 @@ site: http://www.puniket.com/yuyumyon/
 | **ようせいげんき！17**        | 2024.01.28  |
 | **ようせいげんき！18**        | 2025.02.02  |
 
-site: http://www.puniket.com/cirno/
-image: http://www.puniket.com/cirno/cirno_ba01.jpg
+Site: http://www.puniket.com/cirno/
 
 ### **七色魔女の人形舞踏会。**
 
@@ -2320,9 +2357,11 @@ image: http://www.puniket.com/cirno/cirno_ba01.jpg
 | **七色魔女の人形舞踏会。14**    | 2024.01.28  |
 | **七色魔女の人形舞踏会。15**    | 2025.02.02  |
 
-site: http://www.puniket.com/7magic/
+Site: http://www.puniket.com/7magic/
 
 ### **八雲のヒミツ基地**
+
+![alt](/images/yakumo_ba01.jpg){.white-bg}
 
 | **Event**                     | **Date**    |
 |-------------------------------|-------------|
@@ -2337,8 +2376,7 @@ site: http://www.puniket.com/7magic/
 | **八雲のヒミツ基地9**  | 2024.01.28  |
 | **八雲のヒミツ基地10**  | 2025.02.02  |
 
-site: http://www.puniket.com/yakumo/
-image: http://www.puniket.com/yakumo/yakumo_ba01.jpg
+Site: http://www.puniket.com/yakumo/
 
 ### **恋のまほうは魔理沙におまかせ! / 恋魔理**
 
@@ -2362,7 +2400,7 @@ image: http://www.puniket.com/yakumo/yakumo_ba01.jpg
 | **恋魔理16**                  | 2024.01.28  |
 | **恋魔理17**                  | 2025.02.02  |
 
-site: http://www.puniket.com/marisa/
+Site: http://www.puniket.com/marisa/
 
 ### **旧地獄温泉 お燐の湯**
 
@@ -2383,10 +2421,12 @@ site: http://www.puniket.com/marisa/
 | **旧地獄温泉 お燐の湯13** | 2024.01.28 |
 | **旧地獄温泉 お燐の湯14** | 2025.02.02 |
 
-site: http://www.puniket.com/orin/
+Site: http://www.puniket.com/orin/  
 site2: http://youtisei.info/index/orin
 
 ### **萃香粋酔** (すいかすいすい)
+
+![alt](/images/suica_ba01.jpg){.white-bg}
 
 | **Event**       | **Date**         |
 |------------------|------------------|
@@ -2401,8 +2441,7 @@ site2: http://youtisei.info/index/orin
 | **萃香粋酔9** | 2024.01.28 | 
 | **萃香粋酔10** | 2025.02.02 |
 
-site: http://www.puniket.com/suica/
-image: http://www.puniket.com/suica/suica_ba01.jpg
+Site: http://www.puniket.com/suica/
 
 ### **紅のひろば / Aka no Hiroba / Scarlet Square**
 
@@ -2432,7 +2471,7 @@ image: http://www.puniket.com/suica/suica_ba01.jpg
 | **紅のひろば22**              | 2024.01.28  |
 | **紅のひろば23**              | 2025.02.02  |
 
-site: http://www.puniket.com/aka/
+Site: http://www.puniket.com/aka/
 
 ### **僕らのラブライブ！ / 僕ラブ！ / Bokura no Love Live!**
 
@@ -2485,7 +2524,7 @@ site: http://www.puniket.com/aka/
 | **僕ラブ45**            | 2025.04.13       |
 | **僕ラブ46**            | 2025.06.15       |
 
-site: http://www.puniket.com/lovelive/
+Site: http://www.puniket.com/lovelive/
 
 ### **大⑨州東方祭 / daikyusyu tohosai**
 
@@ -2563,7 +2602,7 @@ site: http://www.puniket.com/lovelive/
 | **大⑨州東方祭71**   | 2024.11.17       |
 | **大⑨州東方祭70**   | 2024.12.08       |
 
-site: http://dai9.tohosai.com/ | http://dakimakura.sakura.ne.jp/daikyusyutohosai/
+Site: http://dai9.tohosai.com/ | http://dakimakura.sakura.ne.jp/daikyusyutohosai/
 
 ### **大九州合同祭 / daikyushu goudousai** 
 
@@ -2626,7 +2665,7 @@ site: http://dai9.tohosai.com/ | http://dakimakura.sakura.ne.jp/daikyusyutohosai
 | **大九州合同祭54**      | 2025.05.11       |
 | **大九州合同祭55**      | 2025.06.22       |
 
-site: https://dai9shu.godosai.com/
+Site: https://dai9shu.godosai.com/
 
 ### **紅魔館TeaParty**
 
@@ -2692,9 +2731,11 @@ site: https://dai9shu.godosai.com/
 | **第百四十季 文々。新聞友の会**     | 2024.09.23       |
 | **第百四十季 文々。新聞友の会**     | 2025.11.22       |
 
-site: https://bunbunmaru-np.com/
+Site: https://bunbunmaru-np.com/
 
 ### **ゲームレジェンド / GAME LEGEND**
+
+![alt](/images/gl.gif){.white-bg}
 
 | **Event**               | **Date**         |
 |-------------------------|------------------|
@@ -2738,9 +2779,7 @@ site: https://bunbunmaru-np.com/
 | **ゲームレジェンド38**   | 2024.11.23       |
 | **ゲームレジェンド39**   | 2025.04.27       |
 
-site: http://www.freepe.com/ii.cgi?gamelegend | http://www.geocities.jp/zed_gamel | https://gamelegend.turukusa.com/ 
-image: https://skypalette.jp/dotage/images/link/gl.gif
-
+Site: http://www.freepe.com/ii.cgi?gamelegend | http://www.geocities.jp/zed_gamel | https://gamelegend.turukusa.com/
 
 ### ぷよ主義 / Puyo-ism
 
@@ -2764,9 +2803,11 @@ image: https://skypalette.jp/dotage/images/link/gl.gif
 | **ぷよ主義16**     | 2023.10.08      |
 | **ぷよ主義17**     | 2024.09.23      |
 
-site: https://www.sdf-event.jp/puyo/
+Site: https://www.sdf-event.jp/puyo/
 
 ### **RAG-FES**
+
+![alt](/images/title.jpg){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
@@ -2842,9 +2883,7 @@ site: https://www.sdf-event.jp/puyo/
 | **RAG-FES69**             | 2025.04.05   |
 | **RAG-FES70**             | TBA          |
 
-site: https://www.sdf-event.jp/ragfes/
-image: https://www.sdf-event.jp/ragfes/img/title.jpg
-
+Site: https://www.sdf-event.jp/ragfes/  
 
 ### **ぱんっあ☆ふぉー！ / ぱんあ**
 
@@ -2903,7 +2942,7 @@ image: https://www.sdf-event.jp/ragfes/img/title.jpg
 | **ぱんっあ☆ふぉー！51**   | 2025.04.29                    |
 | **ぱんっあ☆ふぉー！52**   | 2025.06.08                    |
 
-site: http://sdf-event2.sakura.ne.jp/pv/
+Site: http://sdf-event2.sakura.ne.jp/pv/
 
 ### **コミックレヴォリューション / Comic Revolution / Cレヴォ**
 
@@ -2948,10 +2987,14 @@ site: http://sdf-event2.sakura.ne.jp/pv/
 | **Cレヴォ37FINAL** | 2005.04.24   |
 
 ### **ｺﾐｯｸｷｬｯｽﾙ / Comic Castle**
+| Event              | Date         |
+|--------------------|--------------|
 | **コミックキャッスル2005** | 2005.10.23 |
 | **コミックキャッスル2006春** | 2006.04.02 |
 
 ### **MUSIC COMMUNICATION / M-COMI**
+
+![alt](/images/33.png){.white-bg}
 
 | Event              | Date         |
 |---------------------|--------------|
@@ -2972,8 +3015,7 @@ site: http://sdf-event2.sakura.ne.jp/pv/
 | **M-COMI15**       | 2017.09.18   |
 | **M-COMI16**       | 2018.02.25   |
 
-image: https://static.vocadb.net/img/releaseeventseries/mainSmall/33.png
-site: http://m-comi.birdzberth.com/
+Site: http://m-comi.birdzberth.com/
 
 ### **BrightSeason / Bright Season / BS**
 | Event                     | Date         |
@@ -3006,9 +3048,13 @@ site: http://m-comi.birdzberth.com/
 | **BrightSeason25**        | 2008.05.03   |
 | **BrightSeason26**        | 2008.11.02   |
 
-site: https://www2.biglobe.ne.jp/~sanbo/
+Site: https://www2.biglobe.ne.jp/~sanbo/
 
 ### **Brand New Leaf / BrandNewLeaf / BNL**
+
+![alt](/images/bnllogo.jpg){.white-bg}
+
+![alt](/images/bnl_bnr.gif){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
@@ -3036,9 +3082,7 @@ site: https://www2.biglobe.ne.jp/~sanbo/
 | **Brand New Leaf22**      | 2008.11.03   |
 | **Brand New Leaf23**      | 2009.05.06   |
 
-site: http://bnl.suki.gr.jp/ | http://multi.suki.gr.jp/BNL/
-image: https://web.archive.org/web/20001206215700im_/http://bnl.suki.gr.jp/image/bnllogo.jpg
-image2: https://web.archive.org/web/20001206215700im_/http://bnl.suki.gr.jp/image/bnl_bnr.gif
+Site: http://bnl.suki.gr.jp/ | http://multi.suki.gr.jp/BNL/
 
 ### **RumblingPageant**
 
@@ -3049,7 +3093,7 @@ image2: https://web.archive.org/web/20001206215700im_/http://bnl.suki.gr.jp/imag
 | **RumblingPageant3**      | 2003.05.05   |
 | **RumblingPageant4**      | 2003.11.03   |
 
-site: http://trick.cosplay.ne.jp/rh/
+Site: http://trick.cosplay.ne.jp/rh/
 
 ### **きみラヴ**
 
@@ -3057,9 +3101,11 @@ site: http://trick.cosplay.ne.jp/rh/
 |---------------------------|--------------|
 | **きみラヴ**               | 2002.04.28  | 
 
-site: http://www.dup-team.com/kimilove/menu.html
+Site: http://www.dup-team.com/kimilove/menu.html
 
 ### **蒼月祭**
+
+![alt](/images/bana_type1.jpg){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
@@ -3131,9 +3177,10 @@ site: http://www.dup-team.com/kimilove/menu.html
 | **蒼月祭63**              | 2025.06.08   |
 
 https://www2.biglobe.ne.jp/~sanbo/tukihime/
-image: https://web.archive.org/web/20040605193114im_/http://www2.biglobe.ne.jp/~sanbo/tukihime/img/bana_type1.jpg
 
 ### **えんいー / ¥e**
+
+![alt](/images/yen-e_bnr.png){.white-bg}
 
 | Event      | Date         |
 |------------|--------------|
@@ -3145,7 +3192,6 @@ image: https://web.archive.org/web/20040605193114im_/http://www2.biglobe.ne.jp/~
 | **えんいー6**  | 2015.05.04   |
 
 https://www2.biglobe.ne.jp/~sanbo/yen-e/index.html | https://www.sdf-event.jp/yen-e/
-image: https://web.archive.org/web/20011109180929im_/https://www2.biglobe.ne.jp/~sanbo/yen-e/img/yen-e_bnr.png
 
 ### **好き好き in サンシャイン**
 
@@ -3164,7 +3210,7 @@ http://suki2.telnet.or.jp/suki.htm
 | **あゆけっと2**         | 2003.05.04 |
 | **あゆけっと3**         | 2004.05.03 |
 
-site: http://www.ayuket.com/ayuket.htm
+Site: http://www.ayuket.com/ayuket.htm
 
 ### **Reliable Memories**
 
@@ -3174,7 +3220,7 @@ site: http://www.ayuket.com/ayuket.htm
 | **Reliable Memories 2** | 2001.03.25   |
 | **Reliable Memories 3** | 2002.04.07   |
 
-site: http://hey.to/rm | http://tactics.suki.net/ReliableMemories/
+Site: http://hey.to/rm | http://tactics.suki.net/ReliableMemories/
 
 ### **KeyMix**
 
@@ -3206,7 +3252,7 @@ site: http://hey.to/rm | http://tactics.suki.net/ReliableMemories/
 | **Key Points 13**    | 2018.05.27   |
 | **Key Points 14**    | 2018.10.07   |
 
-site: http://www.ayuket.com/keypoints/
+Site: http://www.ayuket.com/keypoints/
 
 ### **Key Island / 鍵島**
 
@@ -3226,7 +3272,7 @@ site: http://www.ayuket.com/keypoints/
 | **Key Island 12**    | 2024.10.27   |
 | **Key Island 13**    | 2025.06.01   |
 
-site: https://www.umiket.com/ | https://umiket.sakura.ne.jp/ | https://umiket.wixsite.com/ | http://lostwinter.info/umiket/
+Site: https://www.umiket.com/ | https://umiket.sakura.ne.jp/ | https://umiket.wixsite.com/ | http://lostwinter.info/umiket/
 
 ### **りょなけっと / ryonaket**
 
@@ -3245,7 +3291,7 @@ site: https://www.umiket.com/ | https://umiket.sakura.ne.jp/ | https://umiket.wi
 | **りょなけっと11**    | 2019.02.17          |
 | **りょなけっと12(Re)**| 2022.09.10-11       |
 
-site: https://www.ryonaket.com/
+Site: https://www.ryonaket.com/
 
 ### **パワフルカップ**
 
@@ -3272,7 +3318,7 @@ site: https://www.ryonaket.com/
 |---------------------------|--------------|
 | **マルチコンテンツマーケット** | 2011.09.23 |
 
-site: http://mcmarket.jp/
+Site: http://mcmarket.jp/
 
 ### **PixelArtPark / Pixel Art Park**
 
@@ -3287,9 +3333,11 @@ site: http://mcmarket.jp/
 | **PixelArtPark7**      | 2020.10.25 (Cancelled) |
 | **PixelArtPark8**      | 2025.08.03          |
 
-site: http://pixelartpark.com/ | http://pixelartpark.html.xdomain.jp/
+Site: http://pixelartpark.com/ | http://pixelartpark.html.xdomain.jp/
 
 ### **ｱｲﾄﾞﾙMySTAR**
+
+![alt](/images/mystar_ims_title.jpg){.white-bg}
 
 | Event                  | Date         |
 |------------------------|--------------|
@@ -3298,8 +3346,7 @@ site: http://pixelartpark.com/ | http://pixelartpark.html.xdomain.jp/
 | **ｱｲﾄﾞﾙMySTAR2009**   | 2009.09.21   |
 | **ｱｲﾄﾞﾙMySTAR2010**   | Cancelled     |
 
-site: http://www5.airnet.ne.jp/multi/ims/
-image: https://web.archive.org/web/20061213081358im_/http://www5.airnet.ne.jp/multi/ims/title.jpg
+Site: http://www5.airnet.ne.jp/multi/ims/
 
 ### **THE iDOLM@NIAX**
 
@@ -3317,7 +3364,7 @@ image: https://web.archive.org/web/20061213081358im_/http://www5.airnet.ne.jp/mu
 | **THE iDOLM@NIAX10**     | 2016.03.21   |
 | **THE iDOLM@NIAX11**     | 2017.01.22   |
 
-site: http://idolmaniax.info/
+Site: http://idolmaniax.info/
 
 ### **やよいSHOW**
 
@@ -3327,7 +3374,7 @@ site: http://idolmaniax.info/
 | **やよいSHOW2**      | 2009.03.20 |
 | **やよいSHOW3**      | 2011.04.03 |
 
-site: http://www5.airnet.ne.jp/~multi/ims/ys/ | http://www1.jcn.m-net.ne.jp/mystar/yh.htm
+Site: http://www5.airnet.ne.jp/~multi/ims/ys/ | http://www1.jcn.m-net.ne.jp/mystar/yh.htm
 
 ### **PERFECT COMMUNiC@TiON / PERFECT COMMUNICATION**
 
@@ -3335,7 +3382,7 @@ site: http://www5.airnet.ne.jp/~multi/ims/ys/ | http://www1.jcn.m-net.ne.jp/myst
 |---------------------|--------------|
 | **PERFECT COMMUNiC@TiON** | 2006.10.22 |
 
-site: http://www.perfect-communication.jp/
+Site: http://www.perfect-communication.jp/
 
 ### **THE iDOLC@RNIVAL**
 
@@ -3343,7 +3390,7 @@ site: http://www.perfect-communication.jp/
 |---------------------|--------------|
 | **THE iDOLC@RNIVAL** | 2006.11.23  |
 
-site: http://idolcarnival.com/
+Site: http://idolcarnival.com/
 
 ### **IDOL PROJECT / iDOLPROJECT / アイプロ / アイドルプロジェクト**
 
@@ -3369,7 +3416,7 @@ site: http://idolcarnival.com/
 | **アイプロ18**                | 2021.04.04   |
 | **アイプロ19**                | 2021.11.14   |
 
-site: http://megane.candy-network.org/idol/ | http://sdf-event.jp/ipro/
+Site: http://megane.candy-network.org/idol/ | http://sdf-event.jp/ipro/
 
 ### **ろりさば！**
 
@@ -3377,7 +3424,7 @@ site: http://megane.candy-network.org/idol/ | http://sdf-event.jp/ipro/
 |-----------------------------------------|-------------------------------|
 | **ろりさば！** | 2012.08.26 |
 
-site: http://sdf-event2.sakura.ne.jp/loli_sava/
+Site: http://sdf-event2.sakura.ne.jp/loli_sava/
 
 ### **iDOL SURVIVAL / アイドルサバイバル / アイサバ**
 
@@ -3393,7 +3440,7 @@ site: http://sdf-event2.sakura.ne.jp/loli_sava/
 | **アイドルサバイバル8**      | 2014.03.23   |
 | **アイドルサバイバル9**      | 2014.11.23   |
 
-site: https://sdf-event2.sakura.ne.jp/mmas/
+Site: https://sdf-event2.sakura.ne.jp/mmas/
 
 ### **ちーちゃんのお誕生会**
 
@@ -3405,7 +3452,7 @@ site: https://sdf-event2.sakura.ne.jp/mmas/
 | **ちーちゃんのお誕生会4-quater-**| 2010.02.14   |
 | **ちーちゃんのお誕生会5-quinquies-**| 2011.02.13   |
 
-site: http://www.chihaya-chan.net/
+Site: http://www.chihaya-chan.net/
 
 ### **恋するパレット / 恋パレ**
 
@@ -3442,7 +3489,7 @@ site: http://www.chihaya-chan.net/
 | **恋するパレット27**                    | 2023.07.16                    |
 | **恋するパレット28**                    | 2025.06.22                    |
 
-site: http://apricot-web.moo.jp/koipall/ex/
+Site: http://apricot-web.moo.jp/koipall/ex/
 
 
 ### **コスチュームカフェ / CostumeCafe**
@@ -3490,7 +3537,7 @@ site: http://apricot-web.moo.jp/koipall/ex/
 | **コスチュームカフェ39号店** | 2024.03.20   |
 | **コスチュームカフェ40号店 Finale & Next Stage** | 2025.03.09   |
 
-site: http://www.costumecafe.com/
+Site: http://www.costumecafe.com/
 
 ### **杜の奇跡 / Mori no Kiseki**
 
@@ -3528,7 +3575,7 @@ site: http://www.costumecafe.com/
 | **杜の奇跡28**            | 2019.05.26   |
 | **杜の奇跡29**            | 2020.05.31 -> 2023.06.04 |
 
-site: http://www2.app.ne.jp/mori-kiseki/ | http://mori-kiseki.com/
+Site: http://www2.app.ne.jp/mori-kiseki/ | http://mori-kiseki.com/
 
 ### **病み鍋PARTY**
 
@@ -3539,7 +3586,7 @@ site: http://www2.app.ne.jp/mori-kiseki/ | http://mori-kiseki.com/
 | **病み鍋PARTY3**         | 2008.11.03   |
 | **病み鍋PARTY氏**        | 2009.05.17   |
 
-site: http://amane.dyndns.info/
+Site: http://amane.dyndns.info/
 
 ### **Augustic Eternal / AugusticEternal / AE**
 
@@ -3556,9 +3603,11 @@ site: http://amane.dyndns.info/
 | **AugusticEternal9**      | 2016.10.30   |
 | **AugusticEternal10**     | 2017.10.09   |
 
-site: http://augusticeternal.iza-yoi.net
+Site: http://augusticeternal.iza-yoi.net
 
 ### **AugusticHoliday**
+
+![alt](/images/logologo.gif){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
@@ -3566,8 +3615,7 @@ site: http://augusticeternal.iza-yoi.net
 | **AugusticHoliday2**      | 2004.08.29   |
 | **AugusticHoliday3**      | 2006.04.30   |
 
-site: http://www.teu.bz/AH/
-image: https://web.archive.org/web/20040605212600im_/http://www.teu.bz/AH/logologo.gif
+Site: http://www.teu.bz/AH/
 
 ### **ClochetteFestival**
 
@@ -3581,34 +3629,37 @@ image: https://web.archive.org/web/20040605212600im_/http://www.teu.bz/AH/logolo
 | **ClochetteFestival6**     | 2015.10.18   |
 | **ClochetteFestival7**     | 2016.10.30   |
 
-site: http://clofes.iza-yoi.net/
+Site: http://clofes.iza-yoi.net/
 
 ### **真剣勝負！！**
+
+![alt](/images/majishoubu.iza-yoi.net_banner.jpg){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
 | **真剣勝負！！**           | 2013.03.10   |
 
-site: http://majishoubu.iza-yoi.net/
-image: http://majishoubu.iza-yoi.net/banner.jpg
+Site: http://majishoubu.iza-yoi.net/
 
 ### **ゆず色の乙女たち**
+
+![alt](/images/yuzuiro.iza-yoi.net_banner.jpg){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
 | **ゆず色の乙女たち**       | 2013.03.10   |
 
-site: http://yuzuiro.iza-yoi.net/
-image: http://yuzuiro.iza-yoi.net/banner.jpg
+Site: http://yuzuiro.iza-yoi.net/
 
 ### **俺たちのパラダイス**
+
+![alt](/images/oplogo.gif){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
 | **俺たちのパラダイス** | 2013.03.10 |
 
-site: https://orepara.iza-yoi.net/
-image: https://orepara.iza-yoi.net/oplogo.gif
+Site: https://orepara.iza-yoi.net/
 
 ### **珠津島ほりでぃ**
 
@@ -3625,7 +3676,7 @@ image: https://orepara.iza-yoi.net/oplogo.gif
 | **リトルバスターズFestival** | 2008.06.29 |
 | **リトルバスターズFestival2nd** | 2010.11.03 |
 
-site: http://ayuket.com/littlebusters
+Site: http://ayuket.com/littlebusters
 
 ### **リトバスパーティー**
 
@@ -3637,7 +3688,7 @@ site: http://ayuket.com/littlebusters
 | **リトバスパーティー4**      | 2011.03.27   |
 | **リトバスパーティーＲ**      | 2013.03.24   |
 
-site: https://mattari-an.net/littlebusters/
+Site: https://mattari-an.net/littlebusters/
 
 ### **雛見沢村民集会**
 
@@ -3654,9 +3705,11 @@ site: https://mattari-an.net/littlebusters/
 | **雛見沢村民集会Q**                | 2024.06.09   |
 | **雛見沢村民集会in白川郷**          | 2025.06.22   |
 
-site: http://shu-kai.hinamizawa.info/ | https://mattari-an.net/shu-kai/
+Site: http://shu-kai.hinamizawa.info/ | https://mattari-an.net/shu-kai/
 
 ### **陵桜祭**
+
+![alt](/images/ry-bana.jpg){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
@@ -3671,27 +3724,28 @@ site: http://shu-kai.hinamizawa.info/ | https://mattari-an.net/shu-kai/
 | **陵桜祭9**                | 2012.05.03   |
 | **陵桜祭10**               | 2013.06.16   |
 
-image: https://pages.team-ops.info/op705/images/ry-bana.jpg
-
 ### **よんこまスケッチ**
 | Event                     | Date         |
 |---------------------------|--------------|
 | **よんこまスケッチ1** | 2008.06.22 |
 | **よんこまスケッチ2** | 2009.07.05 |
 
-site: http://inovel.bgrp.jp/luckystar/
+Site: http://inovel.bgrp.jp/luckystar/
 
 ### **今日のみなみ家**
+
+![alt](/images/mj-bana.jpg){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
 | **今日のみなみ家1** | 2009.03.01 |
 | **今日のみなみ家2** | 2009.07.05 |
 
-image: https://pages.team-ops.info/op705/images/mj-bana.jpg
-site: http://minajitu.info/mk2/
+Site: http://minajitu.info/mk2/
 
 ### **あんこ入りパスタライス / あんこ入り☆パスタライス**
+
+![alt](/images/ap-bana.jpg){.white-bg}
 
 | Event                     | Date         |
 |---------------------------|--------------|
@@ -3699,8 +3753,7 @@ site: http://minajitu.info/mk2/
 | **あんこ入りパスタライス2** | 2009.07.05 | 
 | **あんこ入りパスタライス 2018** | 2018.07.15 |
 
-image: https://pages.team-ops.info/op705/images/ap-bana.jpg
-site: http://amatou.info/bamboo/
+Site: http://amatou.info/bamboo/
 
 ### **子羊たちの春休み**
 
@@ -3719,7 +3772,7 @@ site: http://amatou.info/bamboo/
 | **子羊たちの春休み 読書会にかいめ**        | 2014.09.13   |
 | **子羊たちの春休み10**                    | 2015.02.11   |
 
-site: https://www.marimite.biz/
+Site: https://www.marimite.biz/
 
 ### **QMAKET / QUIZ MAGIC MARKET**
 
@@ -3730,7 +3783,7 @@ site: https://www.marimite.biz/
 | **QMAKET SPECIAL**        | 2009.05.04   |
 | **QMAKET Orchestra**      | 2011.10.02   |
 
-site: http://qmaket.jp/ / http://qmaket.hp.infoseek.co.jp/
+Site: http://qmaket.jp/ / http://qmaket.hp.infoseek.co.jp/
 
 ### **東鳩祭**
 
@@ -3742,7 +3795,7 @@ site: http://qmaket.jp/ / http://qmaket.hp.infoseek.co.jp/
 | **東鳩祭2-D**              | 2006.03.19   |
 | **東鳩祭2-E**              | 2006.10.08   |
 
-site: http://toheart2xai.jp/
+Site: http://toheart2xai.jp/
 
 ### **理想を抱いて溺死しろ**
 
@@ -3751,7 +3804,7 @@ site: http://toheart2xai.jp/
 | **理想を抱いて溺死しろ1**   | 2004.11.23 |
 | **理想を抱いて溺死しろ2**   | 2006.03.26 |
 
-site: http://219.111.31.130/~his/rid/ | http://megane.candy-network.org/rid/ | http://rid2.candy-network.org/
+Site: http://219.111.31.130/~his/rid/ | http://megane.candy-network.org/rid/ | http://rid2.candy-network.org/
 
 ### **即売会ですよ!!プロデューサーさん**
 
@@ -3759,7 +3812,7 @@ site: http://219.111.31.130/~his/rid/ | http://megane.candy-network.org/rid/ | h
 |---------------------------|--------------|
 | **即売会ですよ!!プロデューサーさん** | 2008.11.23 |
 
-site: http://sokupro.com/index.html
+Site: http://sokupro.com/index.html
 
 ### **どんどんやってくれたまえ！**
 
@@ -3774,7 +3827,7 @@ site: http://sokupro.com/index.html
 | **やみなべ祀** | 2008.05.03 |
 | **やみなべ祀 弐** | 2010.02.28 |
 
-site: http://amane.dyndns.info/yami/
+Site: http://amane.dyndns.info/yami/
 
 ### **幻想の樹海**
 
@@ -3788,7 +3841,7 @@ site: http://amane.dyndns.info/yami/
 | **幻想の樹海Ⅵ**             | 2012.10.07   |
 | **幻想の樹海Ⅶ**             | 2014.03.02   |
 
-site: https://cleric.sakura.ne.jp/yggdrasill/
+Site: https://cleric.sakura.ne.jp/yggdrasill/
 
 ### **EternalKanon**
 
@@ -3809,7 +3862,7 @@ site: https://cleric.sakura.ne.jp/yggdrasill/
 | **にゃんふぇす3**           | 2007.04.08   |
 | **にゃんふぇす4**           | 2012.10.13   |
 
-site: https://www.shippo.co.jp/neko/nyanfes/
+Site: https://www.shippo.co.jp/neko/nyanfes/
 
 ### **ショタスクラッチ** / Shota Scratch
 
@@ -3857,7 +3910,7 @@ site: https://www.shippo.co.jp/neko/nyanfes/
 | **ショタスクラッチSPECIAL6** | 2018.05.05          |
 | **ショタスクラッチ35**       | 2018.10.28          |
 
-site: https://syotaratch.com/
+Site: https://syotaratch.com/
 
 ### **都産祭**
 
@@ -3881,7 +3934,7 @@ site: https://syotaratch.com/
 | **都産祭2021**             | 2021.11.14   |
 | **都産祭2022**             | 2022.11.13   |
 
-site: http://tosanmatsuri.sokubaikai.com/
+Site: http://tosanmatsuri.sokubaikai.com/
 
 ### **乙HiME☆復活祭**
 
@@ -3899,7 +3952,7 @@ site: http://tosanmatsuri.sokubaikai.com/
 | **乙HiME☆復活祭 EX**         | 2012.05.04   |
 | **乙HiME☆復活祭 Xi**         | 2012.11.11   |
 
-site: http://www.zhime-fes.info/index.shtml
+Site: http://www.zhime-fes.info/index.shtml
 
 ### **Maiden's Garden**
 
@@ -3916,7 +3969,7 @@ site: http://www.zhime-fes.info/index.shtml
 | **Maiden's Garden9**      | 2013.11.17   |
 | **Maiden's Garden10**     | 2015.05.24   |
 
-site: http://www.maidens-garden.com/ | http://www.zhime-fes.info/maidens-garden/index.shtml
+Site: http://www.maidens-garden.com/ | http://www.zhime-fes.info/maidens-garden/index.shtml
 
 ### **ラノベ文庫 / LNB**
 
@@ -3926,7 +3979,7 @@ site: http://www.maidens-garden.com/ | http://www.zhime-fes.info/maidens-garden/
 | **ラノベ文庫2刊目**        | 2011.11.20   |
 | **ラノベ文庫3刊目**        | 2012.11.11   |
 
-site: http://ln-library.com/
+Site: http://ln-library.com/
 
 ### **Witch's Leave!**
 
@@ -3937,7 +3990,7 @@ site: http://ln-library.com/
 | **Witch's Leave!3**      | 2011.11.20   |
 | **Witch's Leave!4**      | 2012.11.11   |
 
-site: http://w-leave.info/
+Site: http://w-leave.info/
 
 ### **G.G.G.**
 
@@ -3945,7 +3998,7 @@ site: http://w-leave.info/
 |---------------------------|--------------|
 | **G.G.G.**                | 2007.09.23   |
 
-site: http://ggg.zhime-fes.info/
+Site: http://ggg.zhime-fes.info/
 
 ### **京おん！！Kyo-On!!**
 
@@ -3953,7 +4006,7 @@ site: http://ggg.zhime-fes.info/
 |---------------------------|--------------|
 | **京おん！！Kyo-On!!**     | 2010.11.14   |
 
-site: http://k-on.kangyosai.com/
+Site: http://k-on.kangyosai.com/
 
 ### **月下の祭典**
 
@@ -3962,7 +4015,7 @@ site: http://k-on.kangyosai.com/
 | **月下の祭典***            | 2006.11.12   |
 | **月下の祭典2***           | 2007.09.23   |
 
-site: http://gekka.ket.jp/
+Site: http://gekka.ket.jp/
 
 ### **ストラグルコスチュームズ**
 
@@ -3970,7 +4023,7 @@ site: http://gekka.ket.jp/
 |---------------------------|--------------|
 | **ストラグルコスチュームズ** | 2007.09.23  |
 
-site: http://armoredgirl.hp.infoseek.co.jp/
+Site: http://armoredgirl.hp.infoseek.co.jp/
 
 ### **陣代高校文化祭'07**
 
@@ -3978,7 +4031,7 @@ site: http://armoredgirl.hp.infoseek.co.jp/
 |---------------------------|--------------|
 | **陣代高校文化祭'07**      | 2007.09.23   |
 
-site: http://eastwind.sub.jp/fmp07/top.html
+Site: http://eastwind.sub.jp/fmp07/top.html
 
 ### **なのはParty**
 
@@ -3989,7 +4042,7 @@ site: http://eastwind.sub.jp/fmp07/top.html
 | **なのはParty3**         | 2010.11.14   |
 | **なのはParty4**         | 2011.11.20   |
 
-site: http://nanoha-party.info/
+Site: http://nanoha-party.info/
 
 ### **なのはDAYS / Nanoha DAYS**
 
@@ -4000,9 +4053,11 @@ site: http://nanoha-party.info/
 | **なのはDAYS3**            | 2013.11.17   |
 | **なのはDAYS4**            | 2014.05.24   |
 
-site: http://nanoha-party.info/ | http://nanohadays.com/
+Site: http://nanoha-party.info/ | http://nanohadays.com/
 
 ### **HOT COMMUNICATION / HC / ホッコミ**
+
+![alt](/images/titi2.gif){.white-bg}
 
 | Event                   | Date         |
 |-------------------------|--------------|
@@ -4023,15 +4078,19 @@ site: http://nanoha-party.info/ | http://nanohadays.com/
 | **HOT COMMUNICATION 15**| 2004.03.20   |
 | **HOT COMMUNICATION 16**| 2006.03.05   |
 
-site: http://homepage1.nifty.com/shade/hotc/top.html
-image: https://web.archive.org/web/20030810193411im_/http://homepage1.nifty.com/shade/hotc/bot/titi2.gif
+Site: http://homepage1.nifty.com/shade/hotc/top.html
 
 ### **プリキュアイズム！**
+
+![alt](/images/p-ismlog.gif){.white-bg}
+
+| Event                   | Date     |
+|-------------------------|----------|
 | **プリキュアイズム！1** | 2012.11.11 |
 | **プリキュアイズム！2** | 2013.11.17 |
 
-image: https://web.archive.org/web/20130826235057im_/http://cure-ism.com/p-ismlog.gif
-https://web.archive.org/web/20140210150452/http://cure-ism.com/
+Site: https://web.archive.org/web/20140210150452/http://cure-ism.com/
+
 
 
 ### **プリキュアまつり**
@@ -4043,7 +4102,7 @@ https://web.archive.org/web/20140210150452/http://cure-ism.com/
 | **プリキュアまつり3**    | 2012.09.09   |
 | **プリキュアまつり4**    | 2025.09.07   |
 
-site: http://heartcatch.net/precure
+Site: http://heartcatch.net/precure
 
 ### **HARU COMIC CITY / HCC**
 
@@ -4085,7 +4144,7 @@ site: http://heartcatch.net/precure
 | **HARU COMIC CITY 34**    | 2025.03.16   |
 | **HARU COMIC CITY 35**    | 2026.03.20   |
 
-site: https://www.akaboo.jp/
+Site: https://www.akaboo.jp/
 
 ### **MyBestFriends / MBF / MY Best Friends**
 
@@ -4101,7 +4160,7 @@ site: https://www.akaboo.jp/
 | **MBF8**                  | 2015.05.03   |
 | **MBF9**                  | 2016.05.05   |
 
-site: http://mbf.sokubaikai.com/
+Site: http://mbf.sokubaikai.com/
 
 ### **まきますか？まきませんか？ / まきまき**
 
@@ -4140,7 +4199,7 @@ site: http://mbf.sokubaikai.com/
 | **まきまき31**           | 2024.05.06   |
 | **まきまき32**           | 2025.05.06   |
 
-site: http://nijiket.net/maki/
+Site: http://nijiket.net/maki/
 
 ### **Strawberry Sisters / ストシス**
 
@@ -4152,7 +4211,7 @@ site: http://nijiket.net/maki/
 | **ストシス4**            | 2008.06.29   |
 | **ストシス5**            | 2009.09.22   |
 
-site: http://makimaki.tsundere.ne.jp/
+Site: http://makimaki.tsundere.ne.jp/
 
 ### **Wing:1**
 
@@ -4166,7 +4225,7 @@ site: http://makimaki.tsundere.ne.jp/
 | **Wing:1 ～コンティニュー6回目～**                             | 2012.04.01   |
 | **Wing:1 ～コンティニュー7周目～**                             | 2013.03.31   |
 
-site: https://cleric.sakura.ne.jp/moe_stg/
+Site: https://cleric.sakura.ne.jp/moe_stg/
 
 
 ### **来ないと死刑だから**
@@ -4183,7 +4242,7 @@ site: https://cleric.sakura.ne.jp/moe_stg/
 | **来ないと死刑だから8** | 2011.07.24   |
 | **来ないと死刑だから9** | 2018.11.03   |
 
-site: http://ketto.com/so/
+Site: http://ketto.com/so/
 
 ### **アグリゲート**
 
@@ -4200,7 +4259,7 @@ site: http://ketto.com/so/
 | **アグリゲート9**        | 2023.05.20   |
 | **アグリゲート10**       | 2023.11.18   |
 
-site: https://ketto.com/agg/
+Site: https://ketto.com/agg/
 
 ### **わたしにできること**
 
@@ -4222,7 +4281,7 @@ site: https://ketto.com/agg/
 | **わたしにできること14** | 2014.09.28   |
 | **わたしにできること15** | 2015.11.14   |
 
-site: http://ketto.com/stw/
+Site: http://ketto.com/stw/
 
 ### **みみけっと**
 
@@ -4281,7 +4340,7 @@ site: http://ketto.com/stw/
 | **みみけっと51**         | 2025.03.23   |
 | **みみけっと52**         | 2025.11.03   |
 
-site: https://mimi.ketto.com/
+Site: https://mimi.ketto.com/
 
 ### **ざわけっと**
 
@@ -4294,7 +4353,7 @@ site: https://mimi.ketto.com/
 | **ざわけっと5**          | 2008.01.14   |
 | **ざわけっと6**          | 2011.10.10   |
 
-site: http://www.ketto.com/zw/
+Site: http://www.ketto.com/zw/
 
 ### **スプラケット**
 
@@ -4326,7 +4385,7 @@ site: http://www.ketto.com/zw/
 | **スプラケット24**       | 2024.09.14               |
 | **スプラケット25**       | 2025.03.01               |
 
-site: https://ketto.com/spl/
+Site: https://ketto.com/spl/
 
 ### **水魔祭 / Suimasai**
 
@@ -4334,7 +4393,7 @@ site: https://ketto.com/spl/
 |---------------------------|--------------------------|
 | **水魔祭** | 2022.12.03 |
 
-site: http://ketto.com/sui/
+Site: http://ketto.com/sui/
 
 ### **ドリルは男の魂**
 
@@ -4345,7 +4404,7 @@ site: http://ketto.com/sui/
 | **ドリルは男の魂3**       | 2008.02.03   |
 | **ドリルは男の魂4**       | 2008.07.20   |
 
-site: https://ketto.com/gr/
+Site: https://ketto.com/gr/
 
 ### **エスカレーション！ / Escalation!**
 
@@ -4362,7 +4421,7 @@ site: https://ketto.com/gr/
 | **エスカレーション！9**   | 2007.10.28   |
 | **エスカレーション！10**  | 2008.10.27   |
 
-site: http://www.teleway.ne.jp/~Mineko/only.html | http://www2.neweb.ne.jp/wc/Mineko/only.html | http://esca.tv/only/
+Site: http://www.teleway.ne.jp/~Mineko/only.html | http://www2.neweb.ne.jp/wc/Mineko/only.html | http://esca.tv/only/
 
 ### **ラノベまにあっくす**
 
@@ -4589,46 +4648,46 @@ site: http://www.teleway.ne.jp/~Mineko/only.html | http://www2.neweb.ne.jp/wc/Mi
 // # **Main Events**
 
 **Comiket (コミケット)**  
-Official site: [https://comiket.co.jp/](https://comiket.co.jp/)  
+Official Site: [https://comiket.co.jp/](https://comiket.co.jp/)  
 Largest bi-annual doujin convention run by not-for-profit organizations & volunteers. Currently a 3 day event with specific media types being sold on different days, “Day 3” is the main day for Doujin Music. 
 
 **Music Media-Mix Market (M3)**  
-Official site: [http://www.m3net.jp/](http://www.m3net.jp/)  
+Official Site: [http://www.m3net.jp/](http://www.m3net.jp/)  
 Event focusing on CD/DVD media (Music, Drama CDs, Movies, Games). This is the main event for original Doujin Music releases, though it also contains other forms of doujin music.
 
 **Reitaisai (例大祭) & Autumn Reitaisai (秋季例大祭)**  
-Official site: [https://reitaisai.com/](https://reitaisai.com/)  
+Official Site: [https://reitaisai.com/](https://reitaisai.com/)  
 Hakurei Shrine Reitaisai (博麗神社例大祭) started out as a place for ZUN to distribute his games but has since transformed into the main place for doujin artists to release their Touhou work. Features all types of media. Due to increasing popularity in Reitaisai they released “例大祭SP” with plans to hold an additional event every autumn. In 2011 this was canceled however, in 2014 it was brought back rebranded as “秋季例大祭”. Essentially just another Reitaisai for artists to sell Touhou works at.
 
 **Touhou Kouroumu (東方紅楼夢)**  
-Official site: [https://koromu-toho.com/](https://koromu-toho.com/)  
+Official Site: [https://koromu-toho.com/](https://koromu-toho.com/)  
 Smaller convention for artists to release their Touhou works at. Features all types of media
 
 **THE VOC@LOID M@STER (ボーマス)**  
-Official site: [http://ketto.com/tvm/](http://ketto.com/tvm/)  
+Official Site: [http://ketto.com/tvm/](http://ketto.com/tvm/)  
 Largest vocaloid centered event. Contains both Commercial & Doujin participants selling all forms of media. Has sparked multiple spin-off events due to popularity as well.
 
 // # **Main Events (Digital)**
 
 **Air Comiket (エアコミケ)**  
-Official site: [https://air.comiket.co.jp/](https://air.comiket.co.jp/)  
+Official Site: [https://air.comiket.co.jp/](https://air.comiket.co.jp/)  
 Created due to the covid pandemic postponing Comiket 98\. Distribution is done thru mail-order, mail-order sites and digital stores.
 
 **Air Reitaisai (エア例大祭)**  
-Official site: [https://reitaisai.com/](https://reitaisai.com/)  
+Official Site: [https://reitaisai.com/](https://reitaisai.com/)  
 Created due to the Tōhoku earthquake & tsunami cancelling Reitaisai 8, then brought back due to the coronavirus pandemic cancelling Reitaisai 17
 
 **ComicVket**   
-Official site: [https://www.comic.v-market.work/](https://www.comic.v-market.work/)  
+Official Site: [https://www.comic.v-market.work/](https://www.comic.v-market.work/)  
 Virtual Event held within VRChat, visiting artists booths virtually would take you to a storefront page to purchase their works.
 
 **Booth Festivals**  
-Official site: [https://booth.pm/ja/exhibitions/](https://booth.pm/ja/exhibitions/)  
+Official Site: [https://booth.pm/ja/exhibitions/](https://booth.pm/ja/exhibitions/)  
 Events held exclusively on the website [https://booth.pm/](https://booth.pm/)  
 Many artists create(d) event exclusive releases to be sold during these events. Artists are also allowed to sell digital work (touhou) during these events on their own page.
 
 **Apollo**   
-Official site: [https://booth.pm/ja/exhibitions/](https://booth.pm/ja/exhibitions/)  
+Official Site: [https://booth.pm/ja/exhibitions/](https://booth.pm/ja/exhibitions/)  
 Event held exclusively on the website [https://booth.pm/](https://booth.pm/)  
 Many artists create(d) event exclusive releases to be sold during these events. Artists are also allowed to sell digital work (touhou) during these events on their own page.
 
