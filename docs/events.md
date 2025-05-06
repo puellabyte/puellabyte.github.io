@@ -3190,12 +3190,15 @@ http://m-comi.birdzberth.com/
 | **BrightSeason2**         | 1998.12.20   |
 | **BrightSeason3**         | 1999.05.03   |
 | **BrightSeason4**         | 1999.09.12   |
+| **BrightSeason4.5**       | 1999.11.07   |
 | **BrightSeason5**         | 2000.02.13   |
 | **BrightSeason6**         | 2000.07.02   |
 | **BrightSeason7**         | 2000.11.26   |
 | **BrightSeason8**         | 2001.02.12   |
 | **BrightSeason8.5**       | 2001.04.29   |
 | **BrightSeason9**         | 2001.07.20   |
+| **BrightSeason9.5LE**     | 2001.09.24   |
+| **BrightSeason9.75**      | 2001.11.03   |
 | **BrightSeasonX**         | 2001.11.25   |
 | **BrightSeason11**        | 2002.02.11   |
 | **BrightSeason12**        | 2002.04.29   |
@@ -4974,6 +4977,228 @@ http://esca.tv/only/
 | **ComiTime21** | 2023.08.19-20 |
 | **ComiTime22** | 2024.10.19 |
 
+
+### **幻想郷サミット / Gensoukyou Summit**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **幻想郷サミット1** | 2013.02.24   |
+| **幻想郷サミット2** | 2014.02.23   |
+| **幻想郷サミット3** | 2015.01.25   |
+| **幻想郷サミット4** | 2017.02.12   |
+
+site: http://gensami.web.fc2.com/
+
+
+### **東方蓬莱祭 / houraisai**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **東方蓬莱祭1**         | 2014.01.26   |
+| **東方蓬莱祭2**         | 2014.06.15   |
+
+site: http://twinpocket.net/houraisai/
+
+### **Mebius Stories**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **Mebius Stories**        | 2000.08.27   |
+
+https://web.archive.org/web/20011030212112/http://leaf.fan.gr.jp/ms/
+image: https://web.archive.org/web/20011030212112im_/http://leaf.fan.gr.jp/ms/banner.gif
+
+### **まこけっと**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **まこけっと**           | 2000.11.12   |
+| **まこけっと2**         | 2001.11.18   |
+
+site: https://web.archive.org/web/20060602080010/http://makoket.hp.infoseek.co.jp:80/
+
+### **なゆけっと**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **なゆけっと**           | 2000.06.11   |
+| **なゆけっと2**         | 2002.05.05   |
+
+site: https://web.archive.org/web/20011004231210/http://key.suki.net/nayuke/ / http://www.nayuket.com/
+
+### **まじかる☆パーティー**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **まじかる☆パーティー** | 2000.08.27   |
+| **まじかる☆パーティー2**| 2001.04.30   |
+| **まじかる☆パーティー3**| 2001.11.03   |
+
+site: https://web.archive.org/web/20010820170401/http://members.tripod.co.jp/magical_party/
+image: https://web.archive.org/web/20010820170401im_/http://members.tripod.co.jp/magical_party/title1.jpg
+image2: https://web.archive.org/web/20010820170401im_/http://members.tripod.co.jp/magical_party/banar.jpg
+
+### **澪けっと**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **澪けっと**             | 2000.10.08   |
+| **澪けっと2**           | 2006.06.04   |
+| **澪けっと3**           | 2017.06.04   |
+
+site: https://web.archive.org/web/20080610111141/http://mioketto.netfirms.com/
+
+### **しおけっと**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **しおけっと**           | 2001.01.28   |
+
+site: http://web.archive.org/web/20070227123700/http://key.suki.net/shioket/index.html
+
+### **さゆけっと**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **さゆけっと**           | 2001.03.04   |
+
+site: https://web.archive.org/web/20010516224446/http://sayuket.hey.to/
+image: https://web.archive.org/web/20010413174828im_/http://homepage1.nifty.com/nonchan/sayuket/hpy01.gif
+
+### **Akane Misaki Revolution / AMR**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **Akane Misaki Revolution**| 2001.07.08   |
+
+site: https://web.archive.org/web/20010815135220/http://snowscape.org/amr/
+image: https://web.archive.org/web/20010815135220im_/http://snowscape.org/amr/img/banner.gif
+image2: https://web.archive.org/web/20010815135220im_/http://snowscape.org/amr/img/banner.jpg
+
+### **雪色奇蹟***
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **雪色奇蹟**             | 2006.12.23   |
+
+### **CLANNED Festival**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **CLANNED Festival1**     | 2005.04.10   |
+| **CLANNED Festival2**     | 2005.08.28   |
+| **CLANNED Festival3**     | 2007.07.22   |
+
+site: http://www.ayuket.com/
+
+### **First Sounds**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **First Sounds1**         | 2004.12.12   |
+| **First Sounds2**         | 2005.05.29   |
+| **First Sounds3**         | 2005.11.03   |
+| **First Sounds4**         | 2006.09.16   |
+| **Fist Sounds -Piano Special Edition-** | 2007.05.19 |
+| **First Sounds5**         | 2007.10.20   |
+
+site: http://firstsounds.net/
+image: https://web.archive.org/web/20080526124603im_/http://firstsounds.net/icon/fs.jpg
+
+### **ホットケーキ・バスターズ！ | Hotcake Busters!**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **ホットケーキ・バスターズ！** | 2008.03.23   |
+
+image: http://littlebusters.jp/pic/top_1.jpg
+site: http://littlebusters.jp/
+
+### **MiTsuDoMoE**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **MiTsuDoMoE**            | 2003.03.30   |
+| **MiTsuDoMoE 第二章**     | 2003.10.26   |
+| **MiTsuDoMoE 第参章**     | 2004.05.16   |
+| **MiTsuDoMoE 第四章**     | 2005.02.27   |
+
+site: https://web.archive.org/web/20031012061237/http://members.at.infoseek.co.jp/mitsudomoe/
+
+### **Little Breaker!**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **Little Breaker!**       | 2009.10.04   |
+
+site: https://web.archive.org/web/20090410054445/https://www.littlebreaker.com/
+
+### **がおけっと**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **がおけっと**           | 2001.07.29   |
+
+site: https://web.archive.org/web/20010215004320/http://www2h.biglobe.ne.jp/~hayato-k/ktx/
+
+### **Key Tactics eXpo* / KTX**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **Key Tactics eXpo**      | 2000.05.05   |
+| **Key Tactics eXpo2**     | 2001.04.01   |
+| **Key Tactics eXpo3**     | 2004.10.24   |
+
+site: https://web.archive.org/web/20010215004320/http://www2h.biglobe.ne.jp/~hayato-k/ktx/
+
+
+### **こみフェス / comifes**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **こみフェス**            | 2003.02.09   |
+
+site: https://web.archive.org/web/20021018204149/http://isweb45.infoseek.co.jp/play/comifes/
+
+### **あゆなゆけっと**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **あゆなゆけっと**       | 2002.01.06   |
+
+site: https://web.archive.org/web/20020408094031/http://plaza10.mbn.or.jp/~ayunayu/
+
+### **ふわふわふるる***
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **ふわふわふるる**       | 2003.05.11   |
+
+site: http://yorarry.cool.ne.jp/ibent/top.htm
+
+### **なのけっと**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **なのけっと**           | 2003.05.25   |
+
+site: https://web.archive.org/web/20030501012410/https://www.sotokei.com/~miodayo/
+
+### **だよけっと**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **だよけっと**           | 2003.05.25   |
+
+site: https://web.archive.org/web/20030501012410/https://www.sotokei.com/~miodayo/
+
+### **ONE Memories**
+
+| Event                     | Date         |
+|---------------------------|--------------|
+| **ONE Memories**          | 2004.08.29   |
+
+site: http://www.onememo.info/
 
 **remnants of the original document, im going to rework the info below**
 
