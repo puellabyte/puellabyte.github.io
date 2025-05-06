@@ -218,7 +218,10 @@ https://www.m3net.jp/
 http://mmm.panic.or.jp/
 :::
 
-Circles/Booths: https://www.m3net.jp/event/index.php  
+:::details Circles/Booths 
+https://www.m3net.jp/event/index.php
+:::
+
 ::: warning these because they didn't add it to the index yet
 https://www.m3net.jp/attendance/circle2022sR.php  
 https://www.m3net.jp/attendance/circle2022sW.php  
