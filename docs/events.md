@@ -4,7 +4,7 @@ All past and future events within the series will be archived if music gets dist
 
 Any N/A or Unknown listings are due to lack of information, the same can be said for any upcoming event that is not yet listed as well as events that are completely missing from this page. It's not because they don't matter - it's because there's insufficient info on them or, I'm not aware of their existence.
 
-DISCLAIMER: This was done mostly by hand, by one person - there is likely to be mistakes & sourcing the dates was not always easy. The sources vary from the date printed on the physical pamplet to blog posts of attendees - in other words, not always right but good enough.. I hope
+DISCLAIMER: This was done mostly by hand, by one person - there is likely to be mistakes & sourcing the dates was not always easy. The sources vary from the date printed on the physical pamphlet to blog posts of attendees - in other words, not always right but good enough.. I hope
 
 If you want to contribute info or notice an error you can contact me on discord: **shvrky**, or via wherever this was shared **assuming I shared it.**
 :::

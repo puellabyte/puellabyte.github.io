@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My VitePress Site",
-  description: "A VitePress site for documentation",
+  title: "同人音楽 - Event Dates",
+  description: "lists 同人 event dates if music was distributed at said event once",
   cleanUrls: true,
   themeConfig: {
     search: {
