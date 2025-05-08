@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "同人音楽 - Event Dates",
-  description: "lists 同人 event dates if music was distributed at said event once",
+  description: "lists 同人 event dates where music was distributed",
   cleanUrls: true,
   themeConfig: {
     search: {
