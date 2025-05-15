@@ -2,7 +2,9 @@
 layout: doc
 ---
 
-:::info **Doujin Events**
+# Events
+
+:::info
 A poor attempt at archiving information on doujin events where doujin music was distributed.
 All past and future events within the series will be archived if music gets distributed at any one of them.
 
@@ -13,7 +15,7 @@ DISCLAIMER: This was done mostly by hand, by one person - there is likely to be 
 If you want to contribute info or notice an error you can contact me on discord: **shvrky**, or via wherever this was shared **assuming I shared it.**
 :::
 
-## **Comiket / C / コミックマーケット**
+## **Comiket / C / コミックマーケット** {#comiket}
 
 | Event    | Date                          |
 | -------- | ----------------------------- |
@@ -156,7 +158,7 @@ https://www.comiket.co.jp/
 https://www.comiket.co.jp/
 :::
 
-## **Music Media-Mix Market / M3**
+## **Music Media-Mix Market / M3** {#m3}
 
 :::tip **秋** \= Autumn | **春** \= Spring
 :::
@@ -246,7 +248,7 @@ https://www.comiket.co.jp/
 - https://www.m3net.jp/attendance/circle2025s.php
 :::
 
-## **例大祭 / Reitaisai / RTS**
+## **例大祭 / Reitaisai / RTS** {#rts}
 
 | Event         | Date                    |
 | ------------- | ----------------------- |
@@ -275,7 +277,7 @@ https://www.comiket.co.jp/
 | **例大祭21**  | 2024.05.03              |
 | **例大祭22**  | 2025.05.05              |
 
-## **秋季例大祭 / Autumn Reitaisai / ARTS**
+## **秋季例大祭 / Autumn Reitaisai / ARTS** {#arts}
 
 | Event            | Date       |
 | ---------------- | ---------- |
@@ -291,7 +293,7 @@ https://www.comiket.co.jp/
 | **秋季例大祭10** | 2023.11.12 |
 | **秋季例大祭11** | 2024.10.24 |
 
-## **東方紅楼夢 / Touhou Kouroumu / TK**
+## **東方紅楼夢 / Touhou Kouroumu / TK** {#tk}
 
 | Event             | Date                    |
 | ----------------- | ----------------------- |
@@ -390,7 +392,7 @@ https://www.comiket.co.jp/
 | **エアコミケ2** | 2020.12.30-31 |
 | **エアコミケ3** | 2021.05.02-04 |
 
-## **エア例大祭 / Air Reitaisai**
+## **エア例大祭 / Air Reitaisai** {#air-rts}
 
 | Event            | Date                    |
 | ---------------- | ----------------------- |
@@ -665,7 +667,7 @@ https://www.comic1.jp/
 https://www.aoboo.jp/
 :::
 
-## **Touhou Events**
+## Touhou Events {#touhou}
 
 ### **東方兎月祭**
 
@@ -878,7 +880,7 @@ http://ketto.com/toho/index.shtml
 | ----------------------------- | ---------- |
 | **こころこみゅにけーしょん1** | 2018.03.25 |
 
-**幻想神楽 / Gensou Kagura**
+### **幻想神楽 / Gensou Kagura**
 
 ![alt](/images/幻想神乐LOGO.jpg){.white-bg}
 
@@ -897,7 +899,7 @@ http://ketto.com/toho/index.shtml
 - http://gensou-kagura.net/
 :::
 
-**東方名華祭 / Meikasai**
+### **東方名華祭 / Meikasai**
 
 | Event            | Date       |
 | ---------------- | ---------- |
@@ -1238,7 +1240,7 @@ http://www.youyou.co.jp/only/touhou/index.html
 
 ## **Vocaloid**
 
-### **マジカルミライ クリエイターズマーケット / Magical Mirai Creators Market**
+### **マジカルミライ クリエイターズマーケット / Magical Mirai Creators Market** {#magimirai-creators-market}
 
 ![alt](/images/104.png){.white-bg}
 
@@ -1263,7 +1265,7 @@ http://www.youyou.co.jp/only/touhou/index.html
 | **マジカルミライ2024 TOKYO**           | 2024.08.30 |
 | **マジカルミライ2024 OSAKA**           | 2024.10.12 |
 
-### **ボーパラ / Vocaloid Paradise / VOPARA**
+### **ボーパラ / Vocaloid Paradise / VOPARA** {#vopara}
 
 ![alt](/images/18.png){.white-bg}
 
@@ -1739,7 +1741,7 @@ https://otoketto.jimdo.com/
 https://voca-st.com/
 :::
 
-## COMITIA
+## COMITIA {#comitia}
 
 ### **COMITIA / COM / コミティア, 東京コミティア / Tokyo Comitia / 東京COMITIA**
 
@@ -2210,7 +2212,7 @@ https://elysian.dojin.com/h-comitia/
 https://www.k-comitia.com/
 :::
 
-## **Aikatsu**
+## **Aikatsu** {#aikatsu}
 
 ### **芸能人はカードが命！- Geinoujin wa Card ga Inochi\! \- Aikatsu Only**
 
@@ -4819,7 +4821,7 @@ https://ketto.com/gr/
 | **ラノベまにあっくす1** | 2007.05.03 |
 | **ラノベまにあっくす2** | 2008.05.03 |
 
-## **Foreign Events**
+## **Foreign Events** {#foreign-events}
 
 ###
 

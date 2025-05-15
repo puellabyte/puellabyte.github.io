@@ -18,7 +18,52 @@ export default defineConfig({
 		sidebar: [
 			{
 				text: "Events",
-				items: [{ text: "Doujin Events", link: "/events" }],
+				items: [
+					{
+						text: "Comiket / C",
+						link: "/events#comiket",
+					},
+					{
+						text: "M3",
+						link: "/events#m3",
+					},
+					{
+						text: "Touhou",
+						link: "/events#touhou",
+						items: [
+							{ text: "Reitaisai / RTS", link: "/events#rts" },
+							{ text: "Autumn Reitaisai / ARTS", link: "/events#arts" },
+							{ text: "Air Reitaisai", link: "/events#air-rts" },
+							{ text: "Touhou Kouroumu / TK", link: "/events#tk" },
+						],
+					},
+					{
+						text: "Vocaloid",
+						link: "/events#vocaloid",
+						items: [
+							{
+								text: "Magical Mirai Creators Market",
+								link: "/events#magimirai-creators-market",
+							},
+							{
+								text: "Vocaloid Paradise / VOPARA",
+								link: "/events#vopara",
+							},
+						],
+					},
+					{
+						text: "COMITIA",
+						link: "/events#comitia",
+					},
+					{
+						text: "Aikatsu",
+						link: "/events#aikatsu",
+					},
+					{
+						text: "Foreign Events",
+						link: "/events#foreign-events",
+					},
+				],
 			},
 		],
 
@@ -26,6 +71,10 @@ export default defineConfig({
 			{
 				icon: "github",
 				link: "https://github.com/puellabyte/puellabyte.github.io/",
+			},
+			{
+				icon: "discord",
+				link: "https://discord.gg/doujincafe",
 			},
 		],
 	},
