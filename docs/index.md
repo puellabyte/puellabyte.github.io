@@ -12,4 +12,8 @@ hero:
         - theme: alt
           text: Discord
           link: https://discord.gg/doujincafe
+        - theme: alt
+          text: HTOA Guide
+          link: /HTOA
+         
 ---
