@@ -15,57 +15,7 @@ export default defineConfig({
 			{ text: "Events", link: "/events" },
 		],
 
-		sidebar: [
-			{
-				text: "Events",
-				items: [
-					{
-						text: "Comiket / C",
-						link: "/events#comiket",
-					},
-					{
-						text: "M3",
-						link: "/events#m3",
-					},
-					{
-						text: "Touhou",
-						link: "/events#touhou",
-						items: [
-							{ text: "Reitaisai / RTS", link: "/events#rts" },
-							{ text: "Autumn Reitaisai / ARTS", link: "/events#arts" },
-							{ text: "Air Reitaisai", link: "/events#air-rts" },
-							{ text: "Touhou Kouroumu / TK", link: "/events#tk" },
-						],
-					},
-					{
-						text: "Vocaloid",
-						link: "/events#vocaloid",
-						items: [
-							{
-								text: "Magical Mirai Creators Market",
-								link: "/events#magimirai-creators-market",
-							},
-							{
-								text: "Vocaloid Paradise / VOPARA",
-								link: "/events#vopara",
-							},
-						],
-					},
-					{
-						text: "COMITIA",
-						link: "/events#comitia",
-					},
-					{
-						text: "Aikatsu",
-						link: "/events#aikatsu",
-					},
-					{
-						text: "Foreign Events",
-						link: "/events#foreign-events",
-					},
-				],
-			},
-		],
+		sidebar: [],
 
 		socialLinks: [
 			{
